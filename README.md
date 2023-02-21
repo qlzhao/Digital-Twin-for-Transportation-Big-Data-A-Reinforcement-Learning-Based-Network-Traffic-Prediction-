@@ -1,4 +1,4 @@
-This project is part of the code in the paper (DOI: 10.1109/TITS.2022.3232518) entitled Digital Twin for Transportation Big Data: A Reinforcement Learning-Based Network Traffic Prediction Approach.
+This project is the part of the code of the paper (DOI: 10.1109/TITS.2022.3232518) entitled Digital Twin for Transportation Big Data: A Reinforcement Learning-Based Network Traffic Prediction Approach.
 The neural network's are mainly trained for the Abilene network, the hyperparameters for training other networks may vary.
 
 A list of all documents is described below:
